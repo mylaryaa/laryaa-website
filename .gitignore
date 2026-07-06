@@ -39,3 +39,8 @@ next-env.d.ts
 # OS
 .DS_Store
 Thumbs.db
+
+# Sensitive specifications
+/Laryaa_*Provisional*
+/Laryaa_*Addendum*
+/Laryaa_*Prd_And_Specs*
